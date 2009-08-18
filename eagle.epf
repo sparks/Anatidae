@@ -325,5 +325,5 @@ State=1
 Number=0
 
 [Desktop]
-Screen="1024 768"
+Screen="1280 1024"
 Window="Win_1"
