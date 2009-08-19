@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/Sparky/Projects/eagle/Anatidae/Anatidae.brd
 
-Start at      : 17:25:58 (18/08/09)
-End at        : 17:32:04 (18/08/09)
-Elapsed time  : 00:06:06
+Start at      : 10:36:25 (19/08/09)
+End at        : 10:45:20 (19/08/09)
+Elapsed time  : 00:08:55
 
-Signals       :    85   RoutingGrid: 5 mil  Layers: 2
-Connections   :   256   predefined:  126 ( 28 Vias )
+Signals       :    82   RoutingGrid: 5 mil  Layers: 2
+Connections   :   227   predefined:  145 ( 42 Vias )
 
 Router memory :   946968
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:05:09  00:00:15  00:00:14  00:00:14  00:00:14
-Number of Ripups  :       291         0         0         0         0
-max. Level        :         5         0         0         0         0
-max. Total        :        40         0         0         0         0
+Time per pass     :  00:07:41  00:00:18  00:00:18  00:00:18  00:00:20
+Number of Ripups  :       409         0         0         0         0
+max. Level        :         4         0         0         0         0
+max. Total        :        23         0         0         0         0
 
-Routed            :       103       103       103       103       103
-Vias              :        99        82        73        69        68
-Resolution        :    89.5 %    89.5 %    89.5 %    89.5 %    89.5 %
+Routed            :        78        78        78        78        78
+Vias              :        78        70        69        66        64
+Resolution        :    98.2 %    98.2 %    98.2 %    98.2 %    98.2 %
 
-Final             : 89.5% finished
+Final             : 98.2% finished
