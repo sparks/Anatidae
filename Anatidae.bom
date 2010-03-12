@@ -1,0 +1,42 @@
+Partlist exported from /Users/Sparky/Projects/eagle/Anatidae/Anatidae.sch at 12/03/10 13:59
+
+Qty Value                     Device                    Parts                                             
+1                             PINHD-1X1                 JP6                                               
+1                             PINHD-2X3                 JP2                                               
+1                             PINHD-2X4                 JP5                                               
+2                             PINHD-2X5                 JP1, JP4                                          
+1   0 Ohm                     R-EU_M0805                R32                                               
+11  0.1uF                     C-EUC0805                 C3, C4, C7, C15, C16, C19, C21, C23, C24, C25, C26
+1   1M Ohm                    R-EU_M0805                R8                                                
+1   1mF                       C-EUC0805                 C10                                               
+3   2.2K Ohm@100MHz           WE-CBF_0805               L2, L3, L4                                        
+1   2.87k Ohm                 R-EU_M0805                R5                                                
+1   3.3V                      LM1117IMPX                VREG1                                             
+1   3.3nF                     C-EUC0805                 C8                                                
+1   5V                        LM1117IMPX                VREG                                              
+1   8.66k Ohm                 R-EU_M0805                R4                                                
+2   10k Ohm                   R-EU_M0805                R7, R26                                           
+6   10uF                      CPOL-EUSMCA               C12, C13, C14, C18, C27, C28                      
+1   12k Ohm                   R-EU_M0805                R1                                                
+1   15uF                      C-EUC0805                 C2                                                
+2   18pF                      C-EUC0805                 C1, C11                                           
+1   20MHz                     MJ-CRYSTAL                CRYSTAL2                                          
+2   22pF                      C-EUC0805                 C5, C6                                            
+1   25.5k Ohm                 R-EU_M0805                R2                                                
+1   25MHz                     MJ-CRYSTAL                CRYSTAL1                                          
+1   30.1k Ohm                 R-EU_M0805                R3                                                
+1   33uH                      INDUCTOR6MMX6MM           U$8                                               
+4   49.9 Ohm                  R-EU_M0805                R19, R20, R21, R22                                
+1   150pF                     C-EUC0805                 C9                                                
+1   300 Ohm                   R-EU_M0805                R6                                                
+9   470 Ohm                   R-EU_M0805                R9, R10, R11, R12, R14, R23, R24, R25, R28        
+1   ATMEGA328-20A             ATMEGA328-20A             IC1                                               
+1   DTS-6                     DTS-6                     S1                                                
+1   ETHERNET_RJ-45_INTMAG_POE ETHERNET_RJ-45_INTMAG_POE U$2                                               
+3   Green                     LEDCHIPLED_0805           LED3, LED7, LED8                                  
+1   POWERSUPPLY_DC21MMX       POWERSUPPLY_DC21MMX       U$6                                               
+1   Red                       LEDCHIPLED_0805           LED1                                              
+1   SI3400FIX                 SI3400FIX                 IC2                                               
+1   SMA_DIODE                 SMA_DIODE                 U$3                                               
+1   W5100SLIM                 W5100SLIM                 U$1                                               
+3   Yellow                    LEDCHIPLED_0805           LED4, LED5, LED10                                 
