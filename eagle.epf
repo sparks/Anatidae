@@ -1,7 +1,7 @@
 [Eagle]
-Version="05 07 00"
+Version="05 11 00"
 Platform="Mac OS X"
-Serial="62191E841E-LSR--1EL"
+Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
 
@@ -297,13 +297,21 @@ UsedLibrary="/Applications/EAGLE/lbr/xicor.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/SparkFun.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/Sparky.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/WIZNET.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/avr-6.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/avr.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/mega32U4.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/silabs-eth.lbr"
+UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/adafruit.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 22 1599 895"
-State=2
+Loc="0 22 1439 873"
+State=3
 Number=0
 
 [Desktop]
-Screen="1600 900"
+Screen="1440 900"
 Window="Win_1"
