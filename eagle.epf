@@ -308,8 +308,8 @@ UsedLibrary="/Users/sparky/Projects/eagle/cam-dru-lbr/lbr/adafruit.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 22 1439 873"
-State=3
+Loc="420 248 1019 647"
+State=2
 Number=0
 
 [Desktop]
